@@ -1,5 +1,5 @@
 # Projet-12-Detectez-des-faux-billet-avec-R-ou-Python
-Dans ce projet il était question d'uiliser des requete sql afin de manipuler des données, etre capable de creer un dictionnaire de données, rediger des scripts sql simples pour aider à la décision.
+Dans ce projet iletait demandé de cree des algorithmes de detection de faux billet, à partir d'un echantillon de 1500 données. il a fallut utiliser 4 types d'algorithme différent 1 non spervisé (kmean), et trois supervisés (regression logistique, knn, random forest)
 
 Compétences développées :
 - Regression lineaire
