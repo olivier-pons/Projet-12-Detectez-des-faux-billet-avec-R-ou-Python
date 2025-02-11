@@ -21,8 +21,17 @@ Livrable
 
 Points forts :
 
+Conforme aux attentes.
+Les modèles sont sauvés avec joblib et rechargé dans le notebook d'application.
+
 Axes d'amélioration :
+
+Quelques détails mentionnés ci-dessous ou lors de la soutenance.
 
 Soutenance
 
-Remarques : OK
+Remarques :
+
+La présentation est claire et complète. Une réelle amélioration est notée depuis la première soutenance.
+
+On peut encore améliorer la précision des explications sur certains points.
